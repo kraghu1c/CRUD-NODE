@@ -1,3 +1,9 @@
 1. Go to github and create a new repository.
 2. Open terminal and change directory (cd) to Desctop.
 3. clone github repository using git clone <repo_link>
+4. git status
+5. git add <file_name> (To add all files git add .)
+6. git status (file name must be in green)
+7. git commit -m "<give any comment message>" (-m means message)
+8. git push
+9. open repo_link and check latest changes
