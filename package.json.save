@@ -1,0 +1,30 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraghu1c/CRUD-NODE.git",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraghu1c/CRUD-NODE/issues"
+  },
+  "homepage": "https  ://github.com/kraghu1c/CRUD-NODE#readme",
+  "description": ""
+}
+cat package.json | jq .
+
+
+
+
+
+clear
+
